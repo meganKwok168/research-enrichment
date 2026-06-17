@@ -28,11 +28,11 @@ Every week, we will each select a research paper and build a presentation on it 
   * review of tools is passable, but also not fully aligned with the goals of this project
   * lit reviews are good for finding other people's research: go to bibliography and find the actual research being referenced and look through those papers
 * try to select a paper less than 20 pages for your own sanity (feel free though, just have to explain all of it)
-* to submit selection: enter the paper title and authors in and push
+* to submit selection: create new row, enter the paper title and authors in papers.md under "Paper" and "Authors" and push
 
 # notes on presentation
-* option 1: make a google slideshow and link it in
-* option 2: make a markdown in the repo (preferred for easy access, you can also add images in mds too) and put the filename in (ex: 06-16-26-present) and scroll when presenting
+* option 1: make a google slideshow and link it papers.md under "Presentation" column
+* option 2: make a markdown in the repo (preferred for easy access, you can also add images in mds too) and put the filename in papers.md (ex: 06-16-26-present.md) and scroll when presenting
 * don't put paragraphs --> use bullet points, you can have pages of notes on the side
 * keep it to 10-15 minutes
 
