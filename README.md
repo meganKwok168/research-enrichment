@@ -2,6 +2,7 @@
 Every week, we will each select a research paper and build a presentation on it as if we were the authors of our chosen papers.
 * Megan Kwok
 * Amelia Kwok
+* Maya Berchin
 
 ## goals
 * gain familiarity with the CS/AI research landscape
