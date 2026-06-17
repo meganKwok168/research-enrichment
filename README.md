@@ -33,7 +33,7 @@ Every week, we will each select a research paper and build a presentation on it 
 
 ## notes on presentation
 * option 1: make a google slideshow and link it papers.md under "Presentation" column
-* option 2: make a markdown in the repo (preferred for easy access, you can also add images in mds too) and put the filename in papers.md (ex: 06-16-26-present.md) and scroll when presenting
+* option 2: make a markdown in the repo (preferred for easy access, you can also add images in mds too) and put the filename in papers.md (ex: 06-16-26-MK.md) and scroll when presenting
 * don't put paragraphs --> use bullet points, you can have pages of notes on the side
 * keep it to 10-15 minutes
 
