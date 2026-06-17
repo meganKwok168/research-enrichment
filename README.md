@@ -31,13 +31,13 @@ Every week, we will each select a research paper and build a presentation on it 
 * unique paper selections (check papers.md to ensure your paper hasn't been presented/selected already -- first come first serve)
 * to submit selection: create new row, enter the paper title and authors in papers.md under "Paper" and "Authors" and push
 
-# notes on presentation
+## notes on presentation
 * option 1: make a google slideshow and link it papers.md under "Presentation" column
 * option 2: make a markdown in the repo (preferred for easy access, you can also add images in mds too) and put the filename in papers.md (ex: 06-16-26-present.md) and scroll when presenting
 * don't put paragraphs --> use bullet points, you can have pages of notes on the side
 * keep it to 10-15 minutes
 
-# notes on markdown
+## notes on markdown
 * .md = markdown file (this is a markdown file too)
 * https://www.markdownguide.org/basic-syntax/#blockquotes-1
 
