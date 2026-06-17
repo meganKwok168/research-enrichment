@@ -28,6 +28,7 @@ Every week, we will each select a research paper and build a presentation on it 
   * review of tools is passable, but also not fully aligned with the goals of this project
   * lit reviews are good for finding other people's research: go to bibliography and find the actual research being referenced and look through those papers
 * try to select a paper less than 20 pages for your own sanity (feel free though, just have to explain all of it)
+* unique paper selections (check papers.md to ensure your paper hasn't been presented/selected already -- first come first serve)
 * to submit selection: create new row, enter the paper title and authors in papers.md under "Paper" and "Authors" and push
 
 # notes on presentation
